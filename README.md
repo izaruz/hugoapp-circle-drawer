@@ -2,9 +2,9 @@
 
 Este ejercicio consiste en crear un canvas en donde se puedan dibujar circulos, los circulos deberan mantenerse si se crea uno nuevo, y deberan poder editarse si se selecciona uno de ellos con click derecho del mouse, al editar se mostrara un elemento que permitira incrementar el diametro del circulo, una vez editado un circulo este almacenara un historial del ultimo cambio para que se pueda deshacer o rehacer el cambio, si se edita otro circulo este sera el que tendra el historial.
 
-![alt text](https://github.com/izaruz/hugoapp-circle-drawer/tree/master/src/assets/draw-1.png?raw=true)
+![alt text](https://github.com/izaruz/hugoapp-circle-drawer/blob/master/src/assets/draw-1.png?raw=true)
 
-![alt text](https://github.com/izaruz/hugoapp-circle-drawer/tree/master/src/assets/draw-2.png?raw=true)
+![alt text](https://github.com/izaruz/hugoapp-circle-drawer/blob/master/src/assets/draw-2.png?raw=true)
 
 ## Pasos para ejecutar el ejercicio
 
